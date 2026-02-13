@@ -10,16 +10,10 @@
 - SOC L1 Skills  
 - Log Analysis & Incident Response  
 - Cloud Security (Azure)  
-- Python for Security  
+- Python for Security
+- prompt Engineering
+- AI & Automation
 
 ---
 
-## 🚀 Projects
-- SOC Analyst Roadmap  
-- SOC Learning Labs  
-- Networking Fundamentals  
-- Git Practice  
-
----
-
-📌 Building hands-on cybersecurity projects daily.
+📌 Building hands-on cybersecurity projects.
