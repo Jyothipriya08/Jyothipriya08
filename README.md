@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Jyothipriya 👋<br><br>🔐 SOC Analyst Aspirant, Security Engineer (Blue Team)  <br>☁️ Azure Security | SIEM | Splunk  <br>🤖 Learning Security Automation & AI  <br><br>---<br><br>## 🎯 Focus<br>- SOC L1 Skills  <br>- Log Analysis & Incident Response  <br>- Cloud Security (Azure)  <br>- Python for Security<br>- Claude Code<br>- AI & Automation<br>
+# Hi, I'm Jyothipriya 👋<br><br>🔐 SOC Analyst Aspirant | Security Engineer (Blue Team)  <br>☁️ Azure Security | SIEM | Splunk  <br>🤖 Learning Security Automation & AI  <br><br>---<br><br>## 🎯 Focus<br>- SOC L1 Skills  <br>- Log Analysis & Incident Response  <br>- Cloud Security (Azure)  <br>- Python for Security<br>- Claude Code<br>- AI & Automation<br>
 
 
 ## 🌐 Socials:
