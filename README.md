@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Jyothipriya 👋<br><br>🔐 Agentic AI Security Aspirant | Security Engineer | Software Engineering | Defensive <br>☁️ Azure Security | SIEM | Splunk  <br>🤖 Learning Security Automation & AI  <br><br>---<br><br>## 🎯 Focus<br>- SOC L1 Skills  <br>- Log Analysis & Incident Response  <br>- Cloud Security (Azure)  <br>- Python for Security<br>- Agentic AI<br>- AI & Automation<br><br>- OpenAI Agents SDK<br>
+# Hi, I'm Jyothipriya 👋<br><br>🔐 Python Backend developer Aspirant | Software Engineering | AI Engineering | Generative AI | DJANGO | React  <br>🤖 Learning Full Stack Development & AI  <br><br>---<br><br>## 🎯 Focus<br>- Software Development Skills  <br>- Agile Management  <br>- AI & Automation  <br>- Python for Backend <br>- Software Applications <br><br>
 
 
 ## 🌐 Socials:
