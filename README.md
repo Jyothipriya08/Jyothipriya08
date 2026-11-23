@@ -1,5 +1,6 @@
 # 💫 About Me:
-# Hi, I'm Jyothipriya 👋<br><br>🔐 Python Backend developer Aspirant | Software Engineering | AI Engineering | Generative AI | DJANGO | React  <br>🤖 Learning Full Stack Development & AI  <br><br>---<br><br>## 🎯 Focus<br>- Software Development Skills  <br>- Agile Management  <br>- AI & Automation  <br>- Python for Backend <br>- Software Applications <br><br>
+# Hi, I'm Jyothipriya 👋<br><br>🔐 Python Backend developer Aspirant | Software Engineering | Python Engineering | Generative AI | DJANGO | React  <br>🤖 Learning Full Stack Development & AI  <br><br>---<br><br>## 🎯 Focus<br>- Software Development Skills  <br>- Agile Management  <br>- AI & Automation  <br>- Python for Backend <br>- Software Applications <br>- Django & FastAPI <br>- Gen AI 
+<br><br>
 
 
 ## 🌐 Socials:
